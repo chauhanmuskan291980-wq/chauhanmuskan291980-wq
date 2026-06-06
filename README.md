@@ -95,22 +95,18 @@ current_focus = {
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chauhanmuskan291980-wq&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chauhanmuskan291980-wq&theme=tokyonight"/>
+<img height="180em"
+src="https://streak-stats.demolab.com?user=chauhanmuskan291980-wq&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanmuskan291980-wq&layout=compact&theme=tokyonight"/>
-
 </p>
----
 
 # 🌐 Connect With Me
 
